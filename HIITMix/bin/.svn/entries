@@ -1,0 +1,40 @@
+10
+
+dir
+161
+svn+ssh://simon.mines.edu/work/svn/FieldSession/Summer%202012/CSM3_HIITMix/src
+svn+ssh://simon.mines.edu/work/svn/FieldSession
+
+
+
+2012-06-28T17:39:54.693403Z
+161
+kshearer
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a9780236-e867-41c8-a9b1-a8374dac69b5
+
+com
+dir
+
+java
+dir
+
+projectHIITMix
+dir
+
+testing
+dir
+
